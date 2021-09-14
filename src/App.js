@@ -13,27 +13,27 @@ import "./App.scss";
 const uniqueCardsArray = [
   {
     type: "cpp",
-    image: require(`./images/cpp.png`)
+    image: require(`./images/cpp.png`).default
   },
   {
     type: "python",
-    image: require(`./images/python.png`)
+    image: require(`./images/python.png`).default
   },
   {
     type: "java",
-    image: require(`./images/java.png`)
+    image: require(`./images/java.png`).default
   },
   {
     type: "react",
-    image: require(`./images/react.png`)
+    image: require(`./images/react.png`).default
   },
   {
     type: "flutter",
-    image: require(`./images/flutter.png`)
+    image: require(`./images/flutter.png`).default
   },
   {
     type: "dart",
-    image: require(`./images/dart.png`)
+    image: require(`./images/dart.png`).default
   }
 ];
 
