@@ -1,4 +1,4 @@
-##MEMORY GAME
+MEMORY GAME
 
 Installation and Setup Instructions
 Example:
